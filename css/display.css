@@ -1,0 +1,33 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 10px;
+    color: #fff;
+    padding: 10px;
+    font-size: 24px;
+    display: inline;
+}
+
+.demo-inline {
+    display: inline;
+    background-color: red;
+    width: 500px;
+    height: 300px;
+    margin: 50px;
+    padding: 20px;
+}
+.demoInline span {
+    background-color: red;
+    display: inline;
+    padding: 50px;
+}
+.demoInlineBlock span {
+    display: inline-block;
+    background-color: red;
+    padding: 50px;
+}
+#noneDemo {
+    color: blue;
+    display: none;
+}

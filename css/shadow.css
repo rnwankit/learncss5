@@ -1,0 +1,25 @@
+.box1 {
+    width: 300px;
+    height: 250px;
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 50px auto;
+    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.3);
+}
+
+.box2 {
+    width: 300px;
+    height: 250px;
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 50px auto;
+    box-shadow: 38px 19px 34px -3px rgba(0, 0, 0, 0.3),
+        3px 0px 12px 6px rgba(0, 0, 0, 0.22),
+        0px 16px 44px 0px rgba(0, 0, 0, 0.22);
+}
+h1 {
+    text-align: center;
+    font-size: 92px;
+    /* text-shadow: h-dir v-dir blur color; */
+    text-shadow: 10px 5px 20px rgba(255, 0, 0, 0.5);
+}

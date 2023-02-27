@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+@font-face {
+    font-family: 'Oswald';
+    src: url(../fonts/Oswald-Regular.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url(../fonts/Oswald-Bold.ttf);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caviar_Dreams';
+    src: url(../fonts/Caviar_Dreams_Bold-webfont.woff);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caviar_Dreams';
+    src: url(../fonts/CaviarDreams_BoldItalic-webfont.woff);
+    font-weight: bold;
+    font-style: italic;
+}
+
+p {
+    font-size: 32px;
+}
+
+#seriDemo {
+    font-family: serif;
+}
+
+#sans {
+    font-family: sans-serif;
+}
+
+#mono {
+    font-family: monospace;
+}
+
+#fant {
+    font-family: fantasy;
+}
+#curs {
+    font-family: cursive;
+}
+
+#gLink {
+    font-family: 'Babylonica', cursive;
+}
+#gImport {
+    font-family: 'Itim', cursive;
+}
+#gDownload {
+    font-family: 'Oswald';
+    font-weight: 400;
+}
+#custom {
+    /* font-family: 'Caviar_Dreams';
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps; */
+    font: italic small-caps bold 25px/10 'Caviar_Dreams';
+}

@@ -1,0 +1,12 @@
+p {
+    /* color: red; */
+    /* color: #0a8b0e9a;  White: #ffffff   Black #000000*/  
+    color: rgba(11, 113, 100, 0.795);  /* 255 255 255  white, 0 0 0 black  */
+    color: hsla(57, 84%, 36%, 0.834);
+}
+#demoId {
+    color: blue;
+}
+.demoClass {
+    color: aqua;
+}

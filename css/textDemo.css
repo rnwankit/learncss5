@@ -1,0 +1,27 @@
+#col {
+    color: red;
+    color: #24b036;
+    color: rgba(0, 0, 255, 0.5);
+    color: hsla(22, 75%, 41%, 0.84);
+}
+#align {
+    text-align: center;
+    text-align: right;
+    text-align: justify;
+}
+#trans {
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: lowercase;
+}
+#dec {
+    text-decoration: none;
+    text-decoration-style: dashed;
+}
+#ind {
+    text-indent: 50px;
+    letter-spacing: 5px;
+    word-spacing: 20px;
+    line-height: 50px;
+    white-space: normal;
+}

@@ -1,0 +1,58 @@
+.main-box {
+    display: flex;
+    border: 2px solid black;
+    height: 500px;
+    /* row-gap: 20px;
+    column-gap: 10px; */
+    gap: 20px;
+}
+.box1 {
+    width: 150px;
+    height: 150px;
+    background-color: brown;
+}
+.box2 {
+    width: 200px;
+    height: 180px;
+    background-color: aqua;
+}
+.wrapping {
+    flex-wrap: wrap;
+}
+.justCont {
+    justify-content: center;
+}
+.justContBtn {
+    justify-content: space-between;
+}
+.algItm {
+    align-items: center;
+}
+.algCnt {
+    align-content: center;
+    flex-wrap: wrap;
+}
+.fxDir {
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    align-content: center;
+}
+.par1 {
+    align-items: center;
+}
+.algSlf {
+    align-self: flex-end;
+}
+.grow1 {
+    flex-grow: 2;
+}
+.grow2 {
+    flex-grow: 0;
+}
+.shr0 {
+    flex-shrink: 0;
+}
+.shr2 {
+    flex-shrink: 0.5;
+}

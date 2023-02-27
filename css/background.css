@@ -1,0 +1,38 @@
+.box1 {
+    width: 50%;
+    height: 50vh;
+    border: 2px solid red;
+    background: url(../images/b.jpg);
+    background-size: cover;
+    background-position: top left;
+}
+.box2 {
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    background: url(../images/f1\ \(3\).jpg);
+    background-size: cover;
+    background-position: top center;
+    float: left;
+    margin: 20px;
+}
+.box3 {
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    float: left;
+    margin: 20px;
+    background: url(../images/f1\ \(2\).jpg);
+    background-size: cover;
+    background-position: center left;
+}
+.box4 {
+    width: 500px;
+    height: 300px;
+    border: 2px solid red;
+    float: left;
+    background: url(../images/dummy-logo-5b.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top center;
+}
